@@ -1,0 +1,12 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lol
+*.lot
+*.md
+*.out
+*.synctex.gz
+*.toc
+_minted-CobolTyping
